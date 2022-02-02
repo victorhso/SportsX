@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "534cfe79-320c-4a3c-b211-ce5aace45091": {
+      "ProjectGuid": "534cfe79-320c-4a3c-b211-ce5aace45091",
+      "DisplayName": "SportsX",
+      "ColorIndex": 0
+    },
+    "8bf7e602-5468-424c-8d5f-06e00ce383ac": {
+      "ProjectGuid": "8bf7e602-5468-424c-8d5f-06e00ce383ac",
+      "DisplayName": "SportsX.Tests",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
